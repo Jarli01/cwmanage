@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>cwmanage</id>
+    <version>2022.03</version>
+	<title>CWManage (Install)</title>
+	<authors>Jarli01</authors>
+	<projectUrl>https://connectwise.com</projectUrl>
+	<iconUrl></iconUrl>
+	<packageSourceUrl>https://university.connectwise.com/install/2021.3/ConnectWise-Internet-Client-x64.msi</packageSourceUrl>
+	<owners>Jarli01</owners>
+    <tags>cwmanage connectwise</tags>
+    <summary>ConnectWise Manage</summary>
+    <description>Installs ConnectWise Manage Desktop application on Windows 10 21H2 - 64 Bit</description>
+	<releaseNotes>updated install.ps1 file to remove comments </releaseNotes>
+	<licenseUrl>https://university.connectwise.com/university/pageview.aspx?short_name=workstation-installation</licenseUrl>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
