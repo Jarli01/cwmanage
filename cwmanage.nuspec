@@ -5,8 +5,8 @@
     <version>2022.03</version>
 	<title>CWManage (Install)</title>
 	<authors>Jarli01</authors>
-	<projectUrl>https://connectwise.com</projectUrl>
-	<iconUrl></iconUrl>
+	<projectUrl>https://github.com/Jarli01/cwmanage</projectUrl>
+	<iconUrl>https://github.com/Jarli01/cwmanage/blob/main/ConnectWise_0000.ico</iconUrl>
 	<packageSourceUrl>https://university.connectwise.com/install/2021.3/ConnectWise-Internet-Client-x64.msi</packageSourceUrl>
 	<owners>Jarli01</owners>
     <tags>cwmanage connectwise</tags>
